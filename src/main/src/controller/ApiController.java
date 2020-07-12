@@ -6,6 +6,7 @@ public class ApiController {
         System.out.print(123);
         int i = 1;
         String ss = "33";
+        String ss = "abc";
     }
 
     public void fun1(){
